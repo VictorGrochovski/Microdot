@@ -1,0 +1,1 @@
+Es necesario descargar las librerias del DHT 11 y microdot
